@@ -1,4 +1,4 @@
-Hi 👋 My name is Diogo Martini Pantaleao
+Hi 👋 My name is Diogo Martini Pantaleão
 ========================================
 
 Web Developer Full Stack
