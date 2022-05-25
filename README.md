@@ -4,7 +4,7 @@ Hi 👋 My name is Diogo Martini Pantaleão
 Web Developer Full Stack
 ------------------------
 
-Estou aprendendo codar a um ano e meio. Comecei com JavaScript, HTML, CSS e estou sempre me atualizando com as ferramentas essenciais como o Node.Js, GitHub, VsCode, Docker, My_Sql, e tudo mais, afim de adquirir um conhecimento pleno de um desenvolvedor full stack. Tenho experiencias profissionais dando apoio como service desk e infraestrutura básica em geral. Desde 2000 apaixonado por tecnologia e aprendendo um pouco mais a cada dia.
+Estou aprendendo codar a um ano. Comecei com JavaScript, HTML, CSS e estou sempre me atualizando com as ferramentas essenciais como o Node.Js, GitHub, VsCode, Docker, My_Sql, e tudo mais, afim de adquirir um conhecimento pleno de um desenvolvedor full stack. Tenho experiencias profissionais dando apoio como service desk e infraestrutura básica em geral. Desde 2000 apaixonado por tecnologia e aprendendo um pouco mais a cada dia.
 
 I've been learning to code for a year and a half. I started with JavaScript, HTML, CSS and I'm always updating myself with essential tools like Node.Js, GitHub, VsCode, Docker, My_Sql, and everything else, in order to acquire a full knowledge of a full stack developer. I have professional experiences giving support as a service desk and basic infrastructure in general. Since 2000 passionate about technology and learning a little more every day.
 
