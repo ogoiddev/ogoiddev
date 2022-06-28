@@ -41,7 +41,7 @@ I've been learning to code for a year. I started with JavaScript, HTML, CSS and 
 
 <h1 align="center">Projects</h1>
 
-<div style="display: flex">
+<div style="display: inline-block">
 <div width="auto">
   <h2 align="center"><a href="https://ogoiddev.vercel.app/">Portfolio</a></h2>
   <a href="https://github.com/ogoiddev/portfolio"><img width="100%" src="https://github.com/ogoiddev/portfolio/blob/main/development/my_portfolio/capa%20Screenshot%202022-06-27%20225550.jpg" alt="project_view" /></a>
