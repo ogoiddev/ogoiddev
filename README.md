@@ -63,7 +63,7 @@ I've been learning to code for a year. I started with JavaScript, HTML, CSS and 
       <p>Modelo de página de eventos / Events page template</p>
     </td>
   </tr>
-
+</table>
 
 ### Badges
 
