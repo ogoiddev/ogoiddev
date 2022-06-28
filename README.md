@@ -41,8 +41,8 @@ I've been learning to code for a year. I started with JavaScript, HTML, CSS and 
 
 <h1 align="center">Projects</h1>
 
-<div style="display: inline">
-<div width="40%">
+<div>
+<div valign="top" width="50%">
   <h2 align="center"><a href="https://ogoiddev.vercel.app/">Portfolio</a></h2>
   <a href="https://github.com/ogoiddev/portfolio"><img width="100%" src="https://github.com/ogoiddev/portfolio/blob/main/development/my_portfolio/capa%20Screenshot%202022-06-27%20225550.jpg" alt="project_view" /></a>
   <br>
@@ -52,7 +52,7 @@ I've been learning to code for a year. I started with JavaScript, HTML, CSS and 
   <p>Reunindo aprendizados / Gathering lessons learned</p>
 </div>
 
-<div width="40%">
+<div valign="top" width="50%">
   <h2 align="center"><a href="https://rocketseat-event-ogoiddev.vercel.app/">Event webpage</a></h2>
   <a href="https://github.com/ogoiddev/rocketseat"><img width="100%" src="https://github.com/ogoiddev/rocketseat/blob/main/1.jpg" alt="project_view" /></a>
   <br>
