@@ -41,27 +41,32 @@ I've been learning to code for a year. I started with JavaScript, HTML, CSS and 
 
 <h1 align="center">Projects</h1>
 
-<div>
-<div valign="top" width="50%">
-  <h2 align="center"><a href="https://ogoiddev.vercel.app/">Portfolio</a></h2>
-  <a href="https://github.com/ogoiddev/portfolio"><img width="100%" src="https://github.com/ogoiddev/portfolio/blob/main/development/my_portfolio/capa%20Screenshot%202022-06-27%20225550.jpg" alt="project_view" /></a>
-  <br>
-  <br>
-  <p><em><strong>Tech`s:</strong> ReactTs, Styled Components, Bootstrap</em></p>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      
+      <h2 align="center"><a href="https://ogoiddev.vercel.app/">Portfolio</a></h2>
+      <a href="https://github.com/ogoiddev/portfolio"><img width="100%" src="https://github.com/ogoiddev/portfolio/blob/main/development/my_portfolio/capa%20Screenshot%202022-06-27%20225550.jpg" alt="project_view" /></a>
+      <br>
+      <br>
+      <p><em><strong>Tech`s:</strong> ReactTs, Styled Components, Bootstrap</em></p>
+      <p>Reunindo aprendizados / Gathering lessons learned</p>
+      
+    </td>
 
-  <p>Reunindo aprendizados / Gathering lessons learned</p>
-</div>
-
-<div valign="top" width="50%">
-  <h2 align="center"><a href="https://rocketseat-event-ogoiddev.vercel.app/">Event webpage</a></h2>
-  <a href="https://github.com/ogoiddev/rocketseat"><img width="100%" src="https://github.com/ogoiddev/rocketseat/blob/main/1.jpg" alt="project_view" /></a>
-  <br>
-  <br>
-  <p><em><strong>Tech's:</strong> React, TypeScript, Vite, GraphCms, Apollo client, GraphQl, Vime, Tailwind, Phosphor Icons, Graphql Generate Code</em></p>
-
-  <p>Modelo de página de eventos / Events page template</p>
-</div>
-</div>
+    <td valign="top" width="50%">
+      
+      <h2 align="center"><a href="https://rocketseat-event-ogoiddev.vercel.app/">Event webpage</a></h2>
+      <a href="https://github.com/ogoiddev/rocketseat"><img width="100%" src="https://github.com/ogoiddev/rocketseat/blob/main/1.jpg" alt="project_view" /></a>
+      <br>
+      <br>
+      <p><em><strong>Tech's:</strong> React, TypeScript, Vite, GraphCms, Apollo client, GraphQl, Vime, Tailwind, Phosphor Icons, Graphql Generate Code</em></p>
+      <p>Modelo de página de eventos / Events page template</p>
+      
+    </td>
+  </tr>
+</table>
+  
 
 
 ### Badges
