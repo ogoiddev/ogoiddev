@@ -42,15 +42,15 @@ Se esta precisando de alguém autentico, honesto, justo e comprometido, acabou d
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://ogoiddev.vercel.app/">Portfolio</a></h2>
-      <a href="https://github.com/ogoiddev/portfolio"><img width="100%" src="https://github.com/ogoiddev/portfolio/blob/main/development/my_portfolio/capa%20Screenshot%202022-06-27%20225550.jpg" alt="project_view" /></a>
+      <h2 align="center"><a href="https://ogoiddev.vercel.app/">Link do Portfolio</a></h2>
+      <a href="https://github.com/ogoiddev/my_portfolio"><img width="100%" src="https://github.com/ogoiddev/my_portfolio/blob/main/development/public/capa_provisoria.png" alt="project_view" /></a>
       <br>
       <br>
       <p><em><strong>Tech`s:</strong> ReactTs, Styled Components, Bootstrap</em></p>
       <p>Reunindo aprendizados / Gathering lessons learned</p>
     </td>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://rocketseat-event-ogoiddev.vercel.app/">Event webpage</a></h2>
+      <h2 align="center"><a href="https://rocketseat-event-ogoiddev.vercel.app/">Link do deploy Event webpage</a></h2>
       <a href="https://github.com/ogoiddev/rocketseat"><img width="100%" src="https://github.com/ogoiddev/rocketseat/blob/main/1.jpg" alt="project_view" /></a>
       <br>
       <br>
