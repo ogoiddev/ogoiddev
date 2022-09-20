@@ -4,7 +4,7 @@ Hi 👋 My name is Diogo Martini Pantaleão
 Web Developer Full Stack
 ------------------------
 
-Se esta precisando de alguém autentico, honesto, justo e comprometido, acabou de encontrar. Eu posso te ajudar com desenvolvimento de sistemas e sempre estarei a disposição para ajudar na solução de problemas. JavaScript, NodeJs, TypeScript, MongoDB, MySql, Docker, React, React-Native, Prisma, Sequelize, Python, Zod, JWT, CSS, Styled-Components e outras mais, são algumas das linguagens e ferramentas que tenho trabalho ultimamente.
+Eu posso te ajudar com desenvolvimento de sistemas Web e sempre estarei a disposição para ajudar na solução de problemas. Estou em constante busca de aperfeiçoamento de código e sempre atento a novidades tecnológicas. JavaScript, NodeJs, TypeScript, MongoDB, MySql, Docker, React, React-Native, Prisma, Sequelize, Python, Zod, JWT, CSS, Styled-Components e outras mais, são algumas das linguagens e ferramentas que tenho trabalho ultimamente.
 
 
 * 🌍  I'm based in Paraná/Brasil
