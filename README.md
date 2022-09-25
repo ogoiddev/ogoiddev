@@ -14,11 +14,9 @@ Eu posso te ajudar com desenvolvimento de sistemas Web e sempre estarei a dispos
 
 
 
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ogoiddev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ogoiddev/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ogoiddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ogoiddev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20027746" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20027746" height="30" width="40" /></a>
 <a href="https://discord.gg/ogoidmp#6313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ogoidmp#6313" height="30" width="40" /></a>
 </p>
