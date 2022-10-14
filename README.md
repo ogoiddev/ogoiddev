@@ -59,11 +59,11 @@ Eu posso te ajudar com desenvolvimento de sistemas Web e sempre estarei a dispos
       <p>API RestFull - POO</p>
     </td>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://rocketseat-event-ogoiddev.vercel.app/">Link do deploy Event webpage</a></h2>
-      <a href="https://github.com/ogoiddev/rocketseat"><img width="100%" src="https://github.com/ogoiddev/rocketseat/blob/main/1.jpg" alt="project_view" /></a>
+      <h2 align="center"><a href="https://github.com/ogoiddev/Car_Shop_API">Link do deploy Event webpage</a></h2>
+      <a href="https://github.com/ogoiddev/Car_Shop_API"><img width="100%" src="https://github.com/ogoiddev/Car_Shop_API/blob/main/public/Screenshot%20from%202022-10-13%2023-25-46.png" alt="project_view" /></a>
       <br>
       <br>
-      <p><em><strong>Tech's:</strong> React, TypeScript, Vite, GraphCms, Apollo client, GraphQl, Vime, Tailwind, Phosphor Icons, Graphql Generate Code</em></p>
+      <p><em><strong>Tech's:</strong> NodeJS, TypeScript, Express, ZOD, MongoDB, mongoose</em></p>
       <p>Modelo de página de eventos / Events page template</p>
     </td>
   </tr>
