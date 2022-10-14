@@ -59,7 +59,7 @@ Eu posso te ajudar com desenvolvimento de sistemas Web e sempre estarei a dispos
       <p>API RestFull - POO</p>
     </td>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/ogoiddev/Car_Shop_API">Link do deploy Event webpage</a></h2>
+      <h2 align="center"><a href="https://github.com/ogoiddev/Car_Shop_API">Link do repositorio</a></h2>
       <a href="https://github.com/ogoiddev/Car_Shop_API"><img width="100%" src="https://github.com/ogoiddev/Car_Shop_API/blob/main/public/Screenshot%20from%202022-10-13%2023-25-46.png" alt="project_view" /></a>
       <br>
       <br>
