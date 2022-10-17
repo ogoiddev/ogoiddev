@@ -9,7 +9,7 @@ Eu posso te ajudar com desenvolvimento de sistemas Web e sempre estarei a dispos
 
 * 🌍  I'm based in Paraná/Brasil
 * ✉️  You can contact me at [diogompantaleao@gmail.com](mailto:diogompantaleao@gmail.com)
-* 🧠  I'm learning Backend stacks
+* 🧠  I'm learning Computer Science with Python :snake:
 * 🤝  I'm open to collaborating on any thing about web develop
 
 
